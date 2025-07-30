@@ -1,0 +1,10 @@
+# Dependencies for task1
+aiofiles
+
+# Dependencies for task2
+requests
+matplotlib
+pandas
+langdetect
+stopwords-iso
+psutil
